@@ -24,7 +24,7 @@ SECRET_KEY = 'mac$*2zsnzpor4hmzxyd+z&-(j3tuuy^+z2kjwnnf*0(89$%i$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
